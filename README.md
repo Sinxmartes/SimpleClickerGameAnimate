@@ -1,2 +1,2 @@
 # SimpleClickerGameAnimate
-A code write for a simple clicker game like a "Cookie Clicker" create in Adobe Animate with ActionScript 3
+A code written for a simple clicker game like "Cookie Clicker" create in Adobe Animate with ActionScript 3
